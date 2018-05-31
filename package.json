@@ -1,0 +1,26 @@
+{
+  "name": "gametheshopbot",
+  "version": "0.0.1",
+  "description": "Robot as a FB messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expressgts18/MsBotfb.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Sagar Shinde. Sagar@gamestheshop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/expressgts18/MsBotfb/issues"
+  },
+  "homepage": "https://github.com/expressgts18/MsBotfb#readme",
+  "dependencies": {
+    "botbuilder": "^3.15.0",
+    "restify": "^7.2.0"
+  }
+}
